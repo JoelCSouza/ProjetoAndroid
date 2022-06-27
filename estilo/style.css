@@ -36,9 +36,9 @@ a.externo::after {
 }
 
 header {
-    height: 120px;
+    height: 140px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 25px;
     background-image: linear-gradient(to bottom, var(--cor2), #1a5c37);
 }
 
@@ -47,16 +47,17 @@ header > h1 {
     font-size: 2em;
     font-family: var(--fonte-destaque);
     font-weight: normal;
-    padding-bottom: 15px;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.452);
+    padding-bottom: 20px;
+    text-shadow: 2px 1px 0px rgba(0, 0, 0, 0.308);
 }
 
 header > p {
     color: white;
-    font-size: 1.2em;
+    font-size: 1.1em;
     max-width: 500px;
     margin: auto;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.452);
+    margin-top: -10px;
+    text-shadow: 2px 1px 0px rgba(0, 0, 0, 0.452);
 }
 nav {
     padding: 5px;
